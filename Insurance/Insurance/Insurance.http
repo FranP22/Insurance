@@ -1,0 +1,6 @@
+@Wiener_HostAddress = http://localhost:5037
+
+GET {{Wiener_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

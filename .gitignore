@@ -4,241 +4,241 @@
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
 # User-specific files
-*.rsuser
-*.suo
-*.user
-*.userosscache
-*.sln.docstates
+Insurance/*.rsuser
+Insurance/*.suo
+Insurance/*.user
+Insurance/*.userosscache
+Insurance/*.sln.docstates
 
 # User-specific files (MonoDevelop/Xamarin Studio)
-*.userprefs
+Insurance/*.userprefs
 
 # Mono auto generated files
-mono_crash.*
+Insurance/mono_crash.*
 
 # Build results
-[Dd]ebug/
-[Dd]ebugPublic/
-[Rr]elease/
-[Rr]eleases/
-x64/
-x86/
-[Ww][Ii][Nn]32/
-[Aa][Rr][Mm]/
-[Aa][Rr][Mm]64/
-bld/
-[Bb]in/
-[Oo]bj/
-[Ll]og/
-[Ll]ogs/
+Insurance/[Dd]ebug/
+Insurance/[Dd]ebugPublic/
+Insurance/[Rr]elease/
+Insurance/[Rr]eleases/
+Insurance/x64/
+Insurance/x86/
+Insurance/[Ww][Ii][Nn]32/
+Insurance/[Aa][Rr][Mm]/
+Insurance/[Aa][Rr][Mm]64/
+Insurance/bld/
+Insurance/[Bb]in/
+Insurance/[Oo]bj/
+Insurance/[Ll]og/
+Insurance/[Ll]ogs/
 
 # Visual Studio 2015/2017 cache/options directory
-.vs/
+Insurance/.vs/
 # Uncomment if you have tasks that create the project's static files in wwwroot
 #wwwroot/
 
 # Visual Studio 2017 auto generated files
-Generated\ Files/
+Insurance/Generated\ Files/
 
 # MSTest test Results
-[Tt]est[Rr]esult*/
-[Bb]uild[Ll]og.*
+Insurance/[Tt]est[Rr]esult*/
+Insurance/[Bb]uild[Ll]og.*
 
 # NUnit
-*.VisualState.xml
-TestResult.xml
-nunit-*.xml
+Insurance/*.VisualState.xml
+Insurance/TestResult.xml
+Insurance/nunit-*.xml
 
 # Build Results of an ATL Project
-[Dd]ebugPS/
-[Rr]eleasePS/
-dlldata.c
+Insurance/[Dd]ebugPS/
+Insurance/[Rr]eleasePS/
+Insurance/dlldata.c
 
 # Benchmark Results
-BenchmarkDotNet.Artifacts/
+Insurance/BenchmarkDotNet.Artifacts/
 
 # .NET Core
-project.lock.json
-project.fragment.lock.json
-artifacts/
+Insurance/project.lock.json
+Insurance/project.fragment.lock.json
+Insurance/artifacts/
 
 # ASP.NET Scaffolding
-ScaffoldingReadMe.txt
+Insurance/ScaffoldingReadMe.txt
 
 # StyleCop
-StyleCopReport.xml
+Insurance/StyleCopReport.xml
 
 # Files built by Visual Studio
-*_i.c
-*_p.c
-*_h.h
-*.ilk
-*.meta
-*.obj
-*.iobj
-*.pch
-*.pdb
-*.ipdb
-*.pgc
-*.pgd
-*.rsp
-*.sbr
-*.tlb
-*.tli
-*.tlh
-*.tmp
-*.tmp_proj
-*_wpftmp.csproj
-*.log
-*.tlog
-*.vspscc
-*.vssscc
-.builds
-*.pidb
-*.svclog
-*.scc
+Insurance/*_i.c
+Insurance/*_p.c
+Insurance/*_h.h
+Insurance/*.ilk
+Insurance/*.meta
+Insurance/*.obj
+Insurance/*.iobj
+Insurance/*.pch
+Insurance/*.pdb
+Insurance/*.ipdb
+Insurance/*.pgc
+Insurance/*.pgd
+Insurance/*.rsp
+Insurance/*.sbr
+Insurance/*.tlb
+Insurance/*.tli
+Insurance/*.tlh
+Insurance/*.tmp
+Insurance/*.tmp_proj
+Insurance/*_wpftmp.csproj
+Insurance/*.log
+Insurance/*.tlog
+Insurance/*.vspscc
+Insurance/*.vssscc
+Insurance/.builds
+Insurance/*.pidb
+Insurance/*.svclog
+Insurance/*.scc
 
 # Chutzpah Test files
-_Chutzpah*
+Insurance/_Chutzpah*
 
 # Visual C++ cache files
-ipch/
-*.aps
-*.ncb
-*.opendb
-*.opensdf
-*.sdf
-*.cachefile
-*.VC.db
-*.VC.VC.opendb
+Insurance/ipch/
+Insurance/*.aps
+Insurance/*.ncb
+Insurance/*.opendb
+Insurance/*.opensdf
+Insurance/*.sdf
+Insurance/*.cachefile
+Insurance/*.VC.db
+Insurance/*.VC.VC.opendb
 
 # Visual Studio profiler
-*.psess
-*.vsp
-*.vspx
-*.sap
+Insurance/*.psess
+Insurance/*.vsp
+Insurance/*.vspx
+Insurance/*.sap
 
 # Visual Studio Trace Files
-*.e2e
+Insurance/*.e2e
 
 # TFS 2012 Local Workspace
-$tf/
+Insurance/$tf/
 
 # Guidance Automation Toolkit
-*.gpState
+Insurance/*.gpState
 
 # ReSharper is a .NET coding add-in
-_ReSharper*/
-*.[Rr]e[Ss]harper
-*.DotSettings.user
+Insurance/_ReSharper*/
+Insurance/*.[Rr]e[Ss]harper
+Insurance/*.DotSettings.user
 
 # TeamCity is a build add-in
-_TeamCity*
+Insurance/_TeamCity*
 
 # DotCover is a Code Coverage Tool
-*.dotCover
+Insurance/*.dotCover
 
 # AxoCover is a Code Coverage Tool
-.axoCover/*
-!.axoCover/settings.json
+Insurance/.axoCover/*
+Insurance/!.axoCover/settings.json
 
 # Coverlet is a free, cross platform Code Coverage Tool
-coverage*.json
-coverage*.xml
-coverage*.info
+Insurance/coverage*.json
+Insurance/coverage*.xml
+Insurance/coverage*.info
 
 # Visual Studio code coverage results
-*.coverage
-*.coveragexml
+Insurance/*.coverage
+Insurance/*.coveragexml
 
 # NCrunch
-_NCrunch_*
-.*crunch*.local.xml
-nCrunchTemp_*
+Insurance/_NCrunch_*
+Insurance/.*crunch*.local.xml
+Insurance/nCrunchTemp_*
 
 # MightyMoose
-*.mm.*
-AutoTest.Net/
+Insurance/*.mm.*
+Insurance/AutoTest.Net/
 
 # Web workbench (sass)
-.sass-cache/
+Insurance/.sass-cache/
 
 # Installshield output folder
-[Ee]xpress/
+Insurance/[Ee]xpress/
 
 # DocProject is a documentation generator add-in
-DocProject/buildhelp/
-DocProject/Help/*.HxT
-DocProject/Help/*.HxC
-DocProject/Help/*.hhc
-DocProject/Help/*.hhk
-DocProject/Help/*.hhp
-DocProject/Help/Html2
-DocProject/Help/html
+Insurance/DocProject/buildhelp/
+Insurance/DocProject/Help/*.HxT
+Insurance/DocProject/Help/*.HxC
+Insurance/DocProject/Help/*.hhc
+Insurance/DocProject/Help/*.hhk
+Insurance/DocProject/Help/*.hhp
+Insurance/DocProject/Help/Html2
+Insurance/DocProject/Help/html
 
 # Click-Once directory
-publish/
+Insurance/publish/
 
 # Publish Web Output
-*.[Pp]ublish.xml
-*.azurePubxml
+Insurance/*.[Pp]ublish.xml
+Insurance/*.azurePubxml
 # Note: Comment the next line if you want to checkin your web deploy settings,
 # but database connection strings (with potential passwords) will be unencrypted
-*.pubxml
-*.publishproj
+Insurance/*.pubxml
+Insurance/*.publishproj
 
 # Microsoft Azure Web App publish settings. Comment the next line if you want to
 # checkin your Azure Web App publish settings, but sensitive information contained
 # in these scripts will be unencrypted
-PublishScripts/
+Insurance/PublishScripts/
 
 # NuGet Packages
-*.nupkg
+Insurance/*.nupkg
 # NuGet Symbol Packages
-*.snupkg
+Insurance/*.snupkg
 # The packages folder can be ignored because of Package Restore
-**/[Pp]ackages/*
+Insurance/**/[Pp]ackages/*
 # except build/, which is used as an MSBuild target.
-!**/[Pp]ackages/build/
+Insurance/!**/[Pp]ackages/build/
 # Uncomment if necessary however generally it will be regenerated when needed
 #!**/[Pp]ackages/repositories.config
 # NuGet v3's project.json files produces more ignorable files
-*.nuget.props
-*.nuget.targets
+Insurance/*.nuget.props
+Insurance/*.nuget.targets
 
 # Microsoft Azure Build Output
-csx/
-*.build.csdef
+Insurance/csx/
+Insurance/*.build.csdef
 
 # Microsoft Azure Emulator
-ecf/
-rcf/
+Insurance/ecf/
+Insurance/rcf/
 
 # Windows Store app package directories and files
-AppPackages/
-BundleArtifacts/
-Package.StoreAssociation.xml
-_pkginfo.txt
-*.appx
-*.appxbundle
-*.appxupload
+Insurance/AppPackages/
+Insurance/BundleArtifacts/
+Insurance/Package.StoreAssociation.xml
+Insurance/_pkginfo.txt
+Insurance/*.appx
+Insurance/*.appxbundle
+Insurance/*.appxupload
 
 # Visual Studio cache files
 # files ending in .cache can be ignored
-*.[Cc]ache
+Insurance/*.[Cc]ache
 # but keep track of directories ending in .cache
-!?*.[Cc]ache/
+Insurance/!?*.[Cc]ache/
 
 # Others
-ClientBin/
-~$*
-*~
-*.dbmdl
-*.dbproj.schemaview
-*.jfm
-*.pfx
-*.publishsettings
-orleans.codegen.cs
+Insurance/ClientBin/
+Insurance/~$*
+Insurance/*~
+Insurance/*.dbmdl
+Insurance/*.dbproj.schemaview
+Insurance/*.jfm
+Insurance/*.pfx
+Insurance/*.publishsettings
+Insurance/orleans.codegen.cs
 
 # Including strong name files can present a security risk
 # (https://github.com/github/gitignore/pull/2483#issue-259490424)
@@ -249,150 +249,181 @@ orleans.codegen.cs
 #bower_components/
 
 # RIA/Silverlight projects
-Generated_Code/
+Insurance/Generated_Code/
 
 # Backup & report files from converting an old project file
 # to a newer Visual Studio version. Backup files are not needed,
 # because we have git ;-)
-_UpgradeReport_Files/
-Backup*/
-UpgradeLog*.XML
-UpgradeLog*.htm
-ServiceFabricBackup/
-*.rptproj.bak
+Insurance/_UpgradeReport_Files/
+Insurance/Backup*/
+Insurance/UpgradeLog*.XML
+Insurance/UpgradeLog*.htm
+Insurance/ServiceFabricBackup/
+Insurance/*.rptproj.bak
 
 # SQL Server files
-*.mdf
-*.ldf
-*.ndf
+Insurance/*.mdf
+Insurance/*.ldf
+Insurance/*.ndf
 
 # Business Intelligence projects
-*.rdl.data
-*.bim.layout
-*.bim_*.settings
-*.rptproj.rsuser
-*- [Bb]ackup.rdl
-*- [Bb]ackup ([0-9]).rdl
-*- [Bb]ackup ([0-9][0-9]).rdl
+Insurance/*.rdl.data
+Insurance/*.bim.layout
+Insurance/*.bim_*.settings
+Insurance/*.rptproj.rsuser
+Insurance/*- [Bb]ackup.rdl
+Insurance/*- [Bb]ackup ([0-9]).rdl
+Insurance/*- [Bb]ackup ([0-9][0-9]).rdl
 
 # Microsoft Fakes
-FakesAssemblies/
+Insurance/FakesAssemblies/
 
 # GhostDoc plugin setting file
-*.GhostDoc.xml
+Insurance/*.GhostDoc.xml
 
 # Node.js Tools for Visual Studio
-.ntvs_analysis.dat
-node_modules/
+Insurance/.ntvs_analysis.dat
+Insurance/node_modules/
 
 # Visual Studio 6 build log
-*.plg
+Insurance/*.plg
 
 # Visual Studio 6 workspace options file
-*.opt
+Insurance/*.opt
 
 # Visual Studio 6 auto-generated workspace file (contains which files were open etc.)
-*.vbw
+Insurance/*.vbw
 
 # Visual Studio 6 auto-generated project file (contains which files were open etc.)
-*.vbp
+Insurance/*.vbp
 
 # Visual Studio 6 workspace and project file (working project files containing files to include in project)
-*.dsw
-*.dsp
+Insurance/*.dsw
+Insurance/*.dsp
 
 # Visual Studio 6 technical files
-*.ncb
-*.aps
+Insurance/*.ncb
+Insurance/*.aps
 
 # Visual Studio LightSwitch build output
-**/*.HTMLClient/GeneratedArtifacts
-**/*.DesktopClient/GeneratedArtifacts
-**/*.DesktopClient/ModelManifest.xml
-**/*.Server/GeneratedArtifacts
-**/*.Server/ModelManifest.xml
-_Pvt_Extensions
+Insurance/**/*.HTMLClient/GeneratedArtifacts
+Insurance/**/*.DesktopClient/GeneratedArtifacts
+Insurance/**/*.DesktopClient/ModelManifest.xml
+Insurance/**/*.Server/GeneratedArtifacts
+Insurance/**/*.Server/ModelManifest.xml
+Insurance/_Pvt_Extensions
 
 # Paket dependency manager
-.paket/paket.exe
-paket-files/
+Insurance/.paket/paket.exe
+Insurance/paket-files/
 
 # FAKE - F# Make
-.fake/
+Insurance/.fake/
 
 # CodeRush personal settings
-.cr/personal
+Insurance/.cr/personal
 
 # Python Tools for Visual Studio (PTVS)
-__pycache__/
-*.pyc
+Insurance/__pycache__/
+Insurance/*.pyc
 
 # Cake - Uncomment if you are using it
 # tools/**
 # !tools/packages.config
 
 # Tabs Studio
-*.tss
+Insurance/*.tss
 
 # Telerik's JustMock configuration file
-*.jmconfig
+Insurance/*.jmconfig
 
 # BizTalk build output
-*.btp.cs
-*.btm.cs
-*.odx.cs
-*.xsd.cs
+Insurance/*.btp.cs
+Insurance/*.btm.cs
+Insurance/*.odx.cs
+Insurance/*.xsd.cs
 
 # OpenCover UI analysis results
-OpenCover/
+Insurance/OpenCover/
 
 # Azure Stream Analytics local run output
-ASALocalRun/
+Insurance/ASALocalRun/
 
 # MSBuild Binary and Structured Log
-*.binlog
+Insurance/*.binlog
 
 # NVidia Nsight GPU debugger configuration file
-*.nvuser
+Insurance/*.nvuser
 
 # MFractors (Xamarin productivity tool) working folder
-.mfractor/
+Insurance/.mfractor/
 
 # Local History for Visual Studio
-.localhistory/
+Insurance/.localhistory/
 
 # Visual Studio History (VSHistory) files
-.vshistory/
+Insurance/.vshistory/
 
 # BeatPulse healthcheck temp database
-healthchecksdb
+Insurance/healthchecksdb
 
 # Backup folder for Package Reference Convert tool in Visual Studio 2017
-MigrationBackup/
+Insurance/MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
-.ionide/
+Insurance/.ionide/
 
 # Fody - auto-generated XML schema
-FodyWeavers.xsd
+Insurance/FodyWeavers.xsd
 
 # VS Code files for those working on multiple tools
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-*.code-workspace
+Insurance/.vscode/*
+Insurance/!.vscode/settings.json
+Insurance/!.vscode/tasks.json
+Insurance/!.vscode/launch.json
+Insurance/!.vscode/extensions.json
+Insurance/*.code-workspace
 
 # Local History for Visual Studio Code
-.history/
+Insurance/.history/
 
 # Windows Installer files from build outputs
-*.cab
-*.msi
-*.msix
-*.msm
-*.msp
+Insurance/*.cab
+Insurance/*.msi
+Insurance/*.msix
+Insurance/*.msm
+Insurance/*.msp
 
 # JetBrains Rider
-*.sln.iml
+Insurance/*.sln.iml
+
+# Logs
+Frontend/logs
+Frontend/*.log
+Frontend/npm-debug.log*
+Frontend/yarn-debug.log*
+Frontend/yarn-error.log*
+Frontend/pnpm-debug.log*
+Frontend/lerna-debug.log*
+
+Frontend/node_modules
+Frontend/.DS_Store
+Frontend/dist
+Frontend/dist-ssr
+Frontend/coverage
+Frontend/*.local
+
+Frontend//cypress/videos/
+Frontend//cypress/screenshots/
+
+# Editor directories and files
+Frontend/.vscode/*
+Frontend/!.vscode/extensions.json
+Frontend/.idea
+Frontend/*.suo
+Frontend/*.ntvs*
+Frontend/*.njsproj
+Frontend/*.sln
+Frontend/*.sw?
+
+Frontend/*.tsbuildinfo
